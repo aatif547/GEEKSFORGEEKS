@@ -14,7 +14,7 @@ int count_digit(int n)
 }
 int main()
 {
-    int n = 12345;
+    int n = 123456;
    cout<< "Number of digits in "<<n<<" is "<<count_digit(n);
    return 0;
 }
